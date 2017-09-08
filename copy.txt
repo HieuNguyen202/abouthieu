@@ -1,42 +1,42 @@
-If i was to describe my self in one word, that would be Hieu. My name is Hieu
-Nguyen. I was born in a small village in Viet Nam, where i spend most of
+If i was to describe my self in one word, that word would be Hieu. My name is
+Hieu Nguyen. I was born in a small village in Viet Nam, where i spent most of
 childhood in the fields. When i turned 18, i packed my luggages and came to Ho
-Chi Minh city to pursue a Bachelor's Degree in Business Administration at the
-University of Economics in Ho Chi Minh city. Three years later, i realized that
-Business Management wasn't for me, so i quitted and packed my luggage again for
-the next adventure: the US. I came to the US in 2012 for a quest for better
-education. Four years have come by and i landed in IIT for my education in
-Electrical Engineering, a field that i never dreamed of. IIT gave me lot of
-experience, two of which are RMC and Co-op: The RMC team is a very cool group of
-people who come from many different disciplines. We gather together weekly to
-build a prototype for a Martian Rover robot, which was also a participant of
-the 2017 NASA Robotic Mining Competition. As a proud member of the 2017 RMC
-team, i developed the robot's control system for which the robot can be remotely
-controlled if it was to be sent to Mars. If you think building a robot for NASA
-competition is cool. Shoot me email and i will see how i can help you join the
-team. The second thing that i got from IIT is an opportunity to gain hands-on
-experience of what i have study. I dedicated the entire semester to do control
-engineer co-op at the Ford Motor Company. No, i'm not building cars. I'm
-"building" processes that build cars. Contradict to what it sounds, an intern's
-job is not that big. I spend most of my days thinking about new projects that i
-will be working on. It's only excited when there was an incident in the plant
-where some machine broke because then all the engineer will use there best
-skills to troubleshoot the problem. My ambition in this class is to be able to
-control the Web. Websites have always been something i would like to create. I
-used to build some web pages using available tools such as Word Press. Although
-i was able to create a website that can be accessed via a the Internet, I was
-not able to make any modifications to my site because i just don't know how to
-do it. So i expect to be a html wizard at the time this class is over. There
-are so many things i could do on the web: maintain a show site for my family's
-business, communication with the robots via a web interface. Or just simply post
-personal blogs. My long term goal is to be come a fine engineer, who build cool
-product and technology for the future. Some of area of interest include:
-Robotics, Automation, and electronic boards and component manufacturing. My very
-long long term goal is to achieve financial freedom. Being a good engineer might
-not make me a very rich person. So i thought i would utilize the knowledge i
-learn in three years of Business Management and the knowledge that i will learn
-along away to invest in financial activity. I might be a technical person who
-always fascinates about technology, but i also love learning new cultures and
-new languages. Chinese is my next to-learn language because most of my family
-member could speak some shades of Chinese, but i can't. I love photography and
-traveling.
+Chi Minh city to pursue a Bachelor's Degree in Business Management at the
+University of Economics. Three years later, i realized that Business Management
+wasn't for me, so i quitted and packed my luggage again for the next adventure:
+to the US. I came to the U.S. in 2013 in a quest for better education. Since
+then four years have come by, and i landed in IIT for my education in Electrical
+Engineering, a field that i never thought of when i was in the fields 20 years
+ago.
+
+Two of the things have inspired me into the engineering discipline are the RMC
+team and my current Co-op. The RMC team is a talented group of students who come
+from many different disciplines. We gather weekly to work on designing and
+building a prototype for a Martian robot, which will be one of the participating
+robots of the 2018 NASA Robotic Mining Competition. As a proud member of the
+2017 RMC team, i developed the robot's control system in which the robot can be
+remotely controlled as if it was on Mars. If you think building a robot for a
+NASA competition is astounding, you are absolutely right. Helping building a
+robot from scratch until it is fully completed was one of the best engineering
+experience for me.
+
+The second thing that inspires me as an engineer is the co-op at a well known
+car manufacturer. I dedicated this entire semester to do work as a control
+engineer, where i have been learning about industrial automations (and no, i'm
+not building cars. I'm "building" processes that helps building cars). What i
+would like to get out of this co-op is the overall picture of a control
+engineer's tasks and all the tool necessary for the job. It's only so excited
+when there is a machine breaks down because then all the engineer will perform
+their "magics" to turn the machine back to its original state; no one knows how
+they did it neither they care.
+
+My ambition in this class is to be able to control the Web, (yes, the entire
+Internet). Creating websites has always been something i would like to know. In
+the past, I used to build some web pages using online tools such as Word Press.
+Although i was able to create a website that is accessible via the Internet, I
+was not able to make any modifications to my site because i just don't know how
+to so. As a main purpose of taking this class, i expect to become web wizard at
+the time this class is over. It will enable me to so many things on the web such
+as maintaining a online present for my family's business, interfacing with the
+RMC robot via a web page, Or just simply posting personal blogs and interesting
+stories.
