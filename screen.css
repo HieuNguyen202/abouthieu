@@ -75,31 +75,6 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
-	background-color: white;
-	line-height: 1;
-
-}
-section {
-	float: right;
-	width: 90%;
-}
-section h1 {
-	font-size: 2em;
-	text-align: center;
-}
-nav {
-	background-color: none;
-	float: left;
-	width: 10%;
-}
-nav h1{
-
-}
-footer{
-	clear: both;
-	text-align: center;
-}
 ol, ul {
 	list-style: none;
 }
@@ -115,10 +90,21 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* End reset CSS code */
+
+/* Start user CSS */
 img {
 	display: block;
 	max-width: 100%;
 }
 figcaption {
 	text-align: center;
+}
+html {
+	font-size: 1.125em; /* 18/16 = 1.25em*/
+	line-height: 1.2222222em; /* 22/18 = 1.2222222em*/
+}
+html h1{
+	text-align: center;
+	font-size: 1.125em; /* 18/16 = 1.25em*/
 }
