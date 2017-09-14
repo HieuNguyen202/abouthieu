@@ -62,7 +62,9 @@ html h1{
 }
 p {
 	line-height: 1.2222222em; /* 22/18 = 1.2222222em*/
+	text-indent: 1.2222222em;
 	padding-bottom: 1.2222222em;
+	x
 }
 img {
 	display: block;
