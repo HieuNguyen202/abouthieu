@@ -49,27 +49,41 @@ table {
 
 /* End reset CSS code */
 
-/* Start user CSS */
-html {
-	padding: 1.2222222em;
-	font-size: 1.125em; /* 18/16 = 1.25em*/
-}
-html h1{
-	font-size: 1.333em; /* using ratio perfect fourth 23.994/18=1.333*/
-	line-height: 2.7506876719em; /* 66/23.994 = 2.7506876719em*/
-	text-align: center;
+/* Start custom CSS */
 
+html {
+	padding: 1.2222222em; /* 22px/18 = 1.2222222em*/
+	font-size: 1.125em; /* 18px/16 = 1.25em*/
 }
+
+body {
+  font-family: 'Slabo 27px', serif;
+	background-color: #E7E7E7; /* Almost white */
+}
+
+h1{
+	font-size: 1.333em; /* using ratio perfect fourth 23.994px/18 = 1.333em*/
+	line-height: 2.7506876719em; /* 66px/23.994 = 2.7506876719em*/
+	text-align: center;
+}
+
 p {
-	line-height: 1.2222222em; /* 22/18 = 1.2222222em*/
+	line-height: 1.2222222em;
 	text-indent: 1.2222222em;
 	padding-bottom: 1.2222222em;
-	x
+	text-align: justify;
 }
+
 img {
 	display: block;
-	max-width: 100%;
+	max-width: 100%; /* You are as big as your container!*/
+	box-shadow: 5px 2.5px 2.5px #888888; /* Create shadow for image*/
+	border-radius: 4% /* Smoothen image cornor*/
 }
+
 figcaption {
+	font-size: 0.75em; /* 13.503px/18 = 0.75em*/
+	line-height: 1.6292675702em; /* 22px/13.503 = 1.6292675702em*/
+	padding-bottom: 1.2222222em;
 	text-align: center;
 }
