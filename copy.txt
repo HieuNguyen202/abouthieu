@@ -1,42 +1,43 @@
-If i was to describe my self in one word, that word would be Hieu. My name is
-Hieu Nguyen. I was born in a small village in Viet Nam, where i spent most of
-childhood in the fields. When i turned 18, i packed my luggages and came to Ho
-Chi Minh city to pursue a Bachelor's Degree in Business Management at the
-University of Economics. Three years later, i realized that Business Management
-wasn't for me, so i quitted and packed my luggage again for the next adventure:
-to the US. I came to the U.S. in 2013 in a quest for better education. Since
-then four years have come by, and i landed in IIT for my education in Electrical
-Engineering, a field that i never thought of when i was in the fields 20 years
-ago.
+I was born in a small village in the Southern Vietnam. My family were
+traditionally farmers, so I spent most of childhood in the rice fields whose
+borders are at the end of the horizon. Since very early, I was taught education
+was one of the best tools keep me away from poverty and make me a fine,
+interesting person. Therefore, unlike most of the young boys in my village, who
+settled for a family at their 20s, I went to Sai Gon, one of Vietnam’s biggest
+cites, to pursue a Bachelor's Degree in a Business major. As I was in my third
+year in college, there was a family event that requires me to relocate to the
+United States. Coming to the U.S. was an exciting opportunity but also
+challenging, but I would like to save this thought for a book that I hope to
+write when I get older.
 
-Two of the things have inspired me into the engineering discipline are the RMC
-team and my current Co-op. The RMC team is a talented group of students who come
-from many different disciplines. We gather weekly to work on designing and
-building a prototype for a Martian robot, which will be one of the participating
-robots of the 2018 NASA Robotic Mining Competition. As a proud member of the
-2017 RMC team, i developed the robot's control system in which the robot can be
-remotely controlled as if it was on Mars. If you think building a robot for a
-NASA competition is astounding, you are absolutely right. Helping building a
-robot from scratch until it is fully completed was one of the best engineering
-experience for me.
+In my book, I will probably reserve a chapter about my days in the Illinois
+Institute Technology, where I come for EE education. One of the things at IIT
+that have inspired me into the engineering discipline are the RMC team. RMC team
+is a group of talented students who come from many different disciplines. We
+gather weekly to design and build a prototype for a Martian robot, which will
+become one of the participating robots of the 2018 NASA Robotic Mining
+Competition (NASA RMC). As a proud member of 2017 RMC team, I developed the
+robot's control software in which the robot can be remotely controlled as if it
+was on Mars in an exploration mission. One things that makes RMC most memorable
+to me is that after intense arguments and sleepless nights working on the robot,
+we managed to have a decent little robot, running back and for in NASA facility;
+and most of all, I made very good friends who shared the same passion: building
+a robot that conquers 2018 NASA RMC.
 
-The second thing that inspires me as an engineer is the co-op at a well known
-car manufacturer. I dedicated this entire semester to do work as a control
-engineer, where i have been learning about industrial automations (and no, i'm
-not building cars. I'm "building" processes that helps building cars). What i
-would like to get out of this co-op is the overall picture of a control
-engineer's tasks and all the tool necessary for the job. It's only so excited
-when there is a machine breaks down because then all the engineer will perform
-their "magics" to turn the machine back to its original state; no one knows how
-they did it neither they care.
+The second thing that inspires to pursue the Engineering profession is the co-op
+at the Ford Motor Company. At Ford, I work closely with the senior control
+engineers, who are nice enough to spend a good amount of time to answer my
+questions about the factory automation system. Some of the projects I have done
+so far are: installing a safety sensor to position the car into the carriers,
+drawing layouts of the the chain system. At the end of this co-op, I hope to
+obtain an overall picture of a control engineer's job as well as industrial
+automation.
 
-My ambition in this class is to be able to control the Web, (yes, the entire
-Internet). Creating websites has always been something i would like to know. In
-the past, I used to build some web pages using online tools such as Word Press.
-Although i was able to create a website that is accessible via the Internet, I
-was not able to make any modifications to my site because i just don't know how
-to so. As a main purpose of taking this class, i expect to become web wizard at
-the time this class is over. It will enable me to so many things on the web such
-as maintaining a online present for my family's business, interfacing with the
-RMC robot via a web page, Or just simply posting personal blogs and interesting
-stories.
+As for Standard Web Design (COM 330), creating websites has always been
+something I would like to know. In the past, I used to build some web pages
+using a online tool such as WordPress. Although I was able to create a website
+that is accessible via the Internet, I was not able to make any modifications to
+my site because I did not know how to so. As a main purpose of taking this
+class, I expect to be able to maintain an online present for my family's
+business, interface with the RMC robot via a web interface, or just simply
+posting personal blogs and interesting stories.
